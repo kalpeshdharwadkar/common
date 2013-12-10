@@ -1,0 +1,17 @@
+{
+    "name": "wepay/common",
+    "description": "Common PHP tools",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-0": { "WePay\\Common\\": "src/" }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eric Stern",
+            "email": "eric@wepay.com"
+        }
+    ]
+}
